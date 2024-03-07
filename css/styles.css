@@ -304,7 +304,8 @@ address {
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px 48px
+    gap: 24px 48px;
+    padding-bottom: 121px;
 }
 
 .portfolio-item {
